@@ -4,4 +4,4 @@ Adjusting containerization machine recipes and technology prerequisites to be mo
 ![pic 2](/ir3-fast-ic.png)  
 ![pic 3](/ir3-express-ic.png)  
 Recipes require a level appropriate computer, large frame, stacker and two loaders.  
-Technology prerequisites are the level approriate stacker and electronics researches.  
+Technology prerequisites are the tier appropriate stacker and electronics researches.  
