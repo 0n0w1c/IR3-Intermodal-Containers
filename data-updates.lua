@@ -27,6 +27,6 @@ then
     }
 
     data.raw.technology["ic-containerization-1"].prerequisites = {"ir3-beltbox", "ir-electronics-1"}
-    data.raw.technology["ic-containerization-2"].prerequisites = {"ir3-fast-beltbox", "ir-electronics-2"}
-    data.raw.technology["ic-containerization-3"].prerequisites = {"ir3-express-beltbox", "ir-electronics-3"}
+    data.raw.technology["ic-containerization-2"].prerequisites = {"ir3-fast-beltbox", "ir-electronics-2", "ic-containerization-1"}
+    data.raw.technology["ic-containerization-3"].prerequisites = {"ir3-express-beltbox", "ir-electronics-3", "ic-containerization-2"}
 end
