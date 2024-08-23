@@ -5,6 +5,7 @@ Adjusting the containerization machine recipes and technology prerequisites to b
 ![pic 3](/ir3-express-ic.png)  
 Recipes require a tier appropriate computer, large frame, stacker and two loaders.  
 Technology prerequisites are the tier appropriate stacker and electronics researches.  
-
+  
+  
 ![pic 4](/container-recipe.png)  
 New container recipe, still requires 8 steel ingots as raw materials.  
