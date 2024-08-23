@@ -2,6 +2,11 @@ if mods["IndustrialRevolution3"]
     and mods["IndustrialRevolution3LoadersStacking"]
     and mods["IntermodalContainers"]
 then
+    data.raw.recipe["ic-container"].ingredients = {
+        {"steel-plate-heavy", 1},
+        {"steel-rivet", 3},
+        {"steel-plate", 4}
+    }
     data.raw.recipe["ic-containerization-machine-1"].ingredients = {
         {"iron-frame-large", 1},
         {"computer-mk1", 1},

@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 23. 08. 2024
+  Bugfixes:
+    - None
+  Changes:
+    - Added new recipe for containers, still requires 8 steel ingot as raw materials
+---------------------------------------------------------------------------------------------------
 Version: 0.0.2
 Date: 22. 08. 2024
   Bugfixes:
