@@ -1,11 +1,18 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.6
+Date: 26. 08. 2024
+  Bugfixes:
+    - Unhide the optional dependency Industrial Revolution 3: Powered Loaders & Ingot Stacking
+  Changes:
+    - None
+---------------------------------------------------------------------------------------------------
 Version: 0.0.5
 Date: 26. 08. 2024
   Bugfixes:
     - None
   Changes:
     - Industrial Revolution 3: Powered Loaders & Ingot Stacking is an optional dependency
-    - Recipes and techology prerequisites for IR3, without IR3:Powered Loaders & Ingot Stacking
+    - Recipes and technology prerequisites for IR3, without IR3:Powered Loaders & Ingot Stacking
     - Containerization 3 technology research unit count increased from 600 to 1000 units
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.4
