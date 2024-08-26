@@ -1,14 +1,14 @@
 {
     "name": "IR3-IntermodalContainers",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "title": "IR3-IntermodalContainers",
     "author": "0n0w1c",
     "factorio_version": "1.1",
     "dependencies": [
       "base >= 1.1",
-      "IndustrialRevolution3 >= 3.1.29",
-      "IndustrialRevolution3LoadersStacking >= 1.0.12",
-      "IntermodalContainers >= 2.0.8"
+      "IndustrialRevolution3",
+      "(?) IndustrialRevolution3LoadersStacking",
+      "IntermodalContainers"
     ],
-    "description": "Adjusts Intermodal Containers recipes and technology prerequisites to be more aligned with Industrial Revolution 3."
+    "description": "Adjusts Intermodal Containers recipes and technology prerequisites to be aligned with Industrial Revolution 3."
   }

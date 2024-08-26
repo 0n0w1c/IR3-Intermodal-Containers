@@ -1,8 +1,17 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+Date: 26. 08. 2024
+  Bugfixes:
+    - None
+  Changes:
+    - Industrial Revolution 3: Powered Loaders & Ingot Stacking is an optional dependency
+    - Recipes and techology prerequisites for IR3, without IR3:Powered Loaders & Ingot Stacking
+    - Containerization 3 technology research unit count increased from 600 to 1000 units
+---------------------------------------------------------------------------------------------------
 Version: 0.0.4
 Date: 23. 08. 2024
   Bugfixes:
-    - Prerequisites for fast and express intermodal containers now includes the previous teir
+    - Technology prerequisites for fast and express intermodal containers includes previous tier
   Changes:
     - None
 ---------------------------------------------------------------------------------------------------
