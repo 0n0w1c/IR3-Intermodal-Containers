@@ -6,12 +6,12 @@ Adjusts the containerization machine recipes and technology prerequisites, to be
 ![pic 3](/ir3-express-ic.png)  
 
 With IR3:Powered Loaders & Ingot Stacking:  
-Recipes require a tier appropriate computer, large frame, stacker and two loaders.  
-Technology prerequisites are the tier appropriate stacker and electronics researches.  
+Recipes require a tier appropriate computer, large frame, stacker, and two loaders.  
+Technology prerequisites are the tier appropriate stacker and electronics technologies.  
   
 Without IR3:Powered Loaders & Ingot Stacking:  
 Recipes require a tier appropriate computer, large frame, and three inserters.  
-Technology prerequisites are the tier appropriate inserter technologies and electronics researches.  
+Technology prerequisites are the tier appropriate inserter and electronics technologies.  
 
 ![pic 4](/container-recipe.png)  
 
