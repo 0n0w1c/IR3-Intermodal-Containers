@@ -1,5 +1,4 @@
-Integrates [Industrial Revolution 3](https://mods.factorio.com/mod/IndustrialRevolution3) and optionally [IR3:Powered Loaders & Ingot Stacking](https://mods.factorio.com/mod/IndustrialRevolution3LoadersStacking), with [Intermodal Containers](https://mods.factorio.com/mod/IntermodalContainers).  
-Adjusts the containerization machine recipes and technology prerequisites, to be aligned with Industrial Revolution 3.  
+Integrates [Industrial Revolution 3](https://mods.factorio.com/mod/IndustrialRevolution3) and optionally [IR3:Powered Loaders & Ingot Stacking](https://mods.factorio.com/mod/IndustrialRevolution3LoadersStacking) with [Intermodal Containers](https://mods.factorio.com/mod/IntermodalContainers) by adjusting the containerization machine recipes and technology prerequisites, to be aligned with Industrial Revolution 3.  
 
 ![pic 1](/ir3-ic.png)  
 ![pic 2](/ir3-fast-ic.png)  
