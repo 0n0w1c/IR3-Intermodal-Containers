@@ -11,6 +11,9 @@ data.raw.recipe["ic-container"].ingredients = {
     {"steel-plate", 4}
 }
 
+data.raw.technology[IC.TECH_PREFIX.."1"].unit.time = 60
+data.raw.technology[IC.TECH_PREFIX.."2"].unit.time = 60
+data.raw.technology[IC.TECH_PREFIX.."3"].unit.time = 60
 data.raw.technology[IC.TECH_PREFIX.."3"].unit.count = 1000
 
 if mods["IndustrialRevolution3LoadersStacking"] then

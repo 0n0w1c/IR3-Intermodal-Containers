@@ -12,6 +12,6 @@ Without IR3:Powered Loaders & Ingot Stacking:
 Recipes require a tier appropriate computer, large frame, and three inserters.  
 Technology prerequisites are the tier appropriate inserter and electronics technologies.  
 
-![pic 4](/container-recipe.png)  
+![pic 4](/ir3-container-recipe.png)  
 
 New container recipe, still requires 8 steel ingots as raw materials.  
